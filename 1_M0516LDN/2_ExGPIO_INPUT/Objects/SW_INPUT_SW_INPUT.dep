@@ -1,0 +1,409 @@
+Dependencies for Project 'SW_INPUT', Target 'SW_INPUT': (DO NOT MODIFY !)
+F (..\Library\Device\Nuvoton\M051Series\Source\system_M051Series.c)(0x5F6324B4)(--c99 --gnu -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\Library\CMSIS\Include -I ..\Library\Device\Nuvoton\M051Series\Include -I ..\Library\StdDriver\inc -I ..\2_ExGPIO_INPUT-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528"-o .\objects\system_m051series.o --omf_browse .\objects\system_m051series.crf --depend .\objects\system_m051series.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5CEB6BD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (..\Library\Device\Nuvoton\M051Series\Include\M051Series.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cm0.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cmInstr.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cmFunc.h)(0x5F6324B4)
+I (..\Library\Device\Nuvoton\M051Series\Include\system_M051Series.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\sys.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\clk.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\adc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\ebi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\fmc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\gpio.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\i2c.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\pwm.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\spi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\timer.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wwdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\uart.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\hdiv.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\acmp.h)(0x5F6324B4)
+F (..\Library\Device\Nuvoton\M051Series\Source\ARM\startup_M051Series.s)(0x5F6324B4)(--cpu Cortex-M0 --pd "__EVAL SETA 1" -g --apcs=interwork -IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 528"--list .\listings\startup_m051series.lst --xref -o .\objects\startup_m051series.o --depend .\objects\startup_m051series.d)
+F (..\Library\StdDriver\src\acmp.c)(0x5F6324B4)(--c99 --gnu -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\Library\CMSIS\Include -I ..\Library\Device\Nuvoton\M051Series\Include -I ..\Library\StdDriver\inc -I ..\2_ExGPIO_INPUT-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528"-o .\objects\acmp.o --omf_browse .\objects\acmp.crf --depend .\objects\acmp.d)
+I (..\Library\Device\Nuvoton\M051Series\Include\M051Series.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cm0.h)(0x5F6324B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (..\Library\CMSIS\Include\core_cmInstr.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cmFunc.h)(0x5F6324B4)
+I (..\Library\Device\Nuvoton\M051Series\Include\system_M051Series.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\sys.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\clk.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\adc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\ebi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\fmc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\gpio.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\i2c.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\pwm.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\spi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\timer.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wwdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\uart.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\hdiv.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\acmp.h)(0x5F6324B4)
+F (..\Library\StdDriver\src\adc.c)(0x5F6324B4)(--c99 --gnu -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\Library\CMSIS\Include -I ..\Library\Device\Nuvoton\M051Series\Include -I ..\Library\StdDriver\inc -I ..\2_ExGPIO_INPUT-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528"-o .\objects\adc.o --omf_browse .\objects\adc.crf --depend .\objects\adc.d)
+I (..\Library\Device\Nuvoton\M051Series\Include\M051Series.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cm0.h)(0x5F6324B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (..\Library\CMSIS\Include\core_cmInstr.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cmFunc.h)(0x5F6324B4)
+I (..\Library\Device\Nuvoton\M051Series\Include\system_M051Series.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\sys.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\clk.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\adc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\ebi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\fmc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\gpio.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\i2c.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\pwm.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\spi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\timer.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wwdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\uart.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\hdiv.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\acmp.h)(0x5F6324B4)
+F (..\Library\StdDriver\src\clk.c)(0x5F6324B4)(--c99 --gnu -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\Library\CMSIS\Include -I ..\Library\Device\Nuvoton\M051Series\Include -I ..\Library\StdDriver\inc -I ..\2_ExGPIO_INPUT-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528"-o .\objects\clk.o --omf_browse .\objects\clk.crf --depend .\objects\clk.d)
+I (..\Library\Device\Nuvoton\M051Series\Include\M051Series.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cm0.h)(0x5F6324B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (..\Library\CMSIS\Include\core_cmInstr.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cmFunc.h)(0x5F6324B4)
+I (..\Library\Device\Nuvoton\M051Series\Include\system_M051Series.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\sys.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\clk.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\adc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\ebi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\fmc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\gpio.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\i2c.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\pwm.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\spi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\timer.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wwdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\uart.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\hdiv.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\acmp.h)(0x5F6324B4)
+F (..\Library\StdDriver\src\ebi.c)(0x5F6324B4)(--c99 --gnu -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\Library\CMSIS\Include -I ..\Library\Device\Nuvoton\M051Series\Include -I ..\Library\StdDriver\inc -I ..\2_ExGPIO_INPUT-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528"-o .\objects\ebi.o --omf_browse .\objects\ebi.crf --depend .\objects\ebi.d)
+I (..\Library\Device\Nuvoton\M051Series\Include\M051Series.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cm0.h)(0x5F6324B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (..\Library\CMSIS\Include\core_cmInstr.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cmFunc.h)(0x5F6324B4)
+I (..\Library\Device\Nuvoton\M051Series\Include\system_M051Series.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\sys.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\clk.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\adc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\ebi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\fmc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\gpio.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\i2c.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\pwm.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\spi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\timer.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wwdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\uart.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\hdiv.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\acmp.h)(0x5F6324B4)
+F (..\Library\StdDriver\src\FMC.c)(0x5F6324B4)(--c99 --gnu -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\Library\CMSIS\Include -I ..\Library\Device\Nuvoton\M051Series\Include -I ..\Library\StdDriver\inc -I ..\2_ExGPIO_INPUT-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528"-o .\objects\fmc.o --omf_browse .\objects\fmc.crf --depend .\objects\fmc.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5CEB6BD2)
+I (..\Library\Device\Nuvoton\M051Series\Include\M051Series.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cm0.h)(0x5F6324B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (..\Library\CMSIS\Include\core_cmInstr.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cmFunc.h)(0x5F6324B4)
+I (..\Library\Device\Nuvoton\M051Series\Include\system_M051Series.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\sys.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\clk.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\adc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\ebi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\fmc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\gpio.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\i2c.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\pwm.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\spi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\timer.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wwdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\uart.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\hdiv.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\acmp.h)(0x5F6324B4)
+F (..\Library\StdDriver\src\gpio.c)(0x5F6324B4)(--c99 --gnu -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\Library\CMSIS\Include -I ..\Library\Device\Nuvoton\M051Series\Include -I ..\Library\StdDriver\inc -I ..\2_ExGPIO_INPUT-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528"-o .\objects\gpio.o --omf_browse .\objects\gpio.crf --depend .\objects\gpio.d)
+I (..\Library\Device\Nuvoton\M051Series\Include\M051Series.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cm0.h)(0x5F6324B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (..\Library\CMSIS\Include\core_cmInstr.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cmFunc.h)(0x5F6324B4)
+I (..\Library\Device\Nuvoton\M051Series\Include\system_M051Series.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\sys.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\clk.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\adc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\ebi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\fmc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\gpio.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\i2c.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\pwm.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\spi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\timer.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wwdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\uart.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\hdiv.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\acmp.h)(0x5F6324B4)
+F (..\Library\StdDriver\src\i2c.c)(0x5F6324B4)(--c99 --gnu -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\Library\CMSIS\Include -I ..\Library\Device\Nuvoton\M051Series\Include -I ..\Library\StdDriver\inc -I ..\2_ExGPIO_INPUT-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528"-o .\objects\i2c.o --omf_browse .\objects\i2c.crf --depend .\objects\i2c.d)
+I (..\Library\Device\Nuvoton\M051Series\Include\M051Series.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cm0.h)(0x5F6324B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (..\Library\CMSIS\Include\core_cmInstr.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cmFunc.h)(0x5F6324B4)
+I (..\Library\Device\Nuvoton\M051Series\Include\system_M051Series.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\sys.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\clk.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\adc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\ebi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\fmc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\gpio.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\i2c.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\pwm.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\spi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\timer.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wwdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\uart.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\hdiv.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\acmp.h)(0x5F6324B4)
+F (..\Library\StdDriver\src\pwm.c)(0x5F6324B4)(--c99 --gnu -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\Library\CMSIS\Include -I ..\Library\Device\Nuvoton\M051Series\Include -I ..\Library\StdDriver\inc -I ..\2_ExGPIO_INPUT-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528"-o .\objects\pwm.o --omf_browse .\objects\pwm.crf --depend .\objects\pwm.d)
+I (..\Library\Device\Nuvoton\M051Series\Include\M051Series.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cm0.h)(0x5F6324B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (..\Library\CMSIS\Include\core_cmInstr.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cmFunc.h)(0x5F6324B4)
+I (..\Library\Device\Nuvoton\M051Series\Include\system_M051Series.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\sys.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\clk.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\adc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\ebi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\fmc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\gpio.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\i2c.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\pwm.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\spi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\timer.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wwdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\uart.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\hdiv.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\acmp.h)(0x5F6324B4)
+F (..\Library\StdDriver\src\retarget.c)(0x5F6324B4)(--c99 --gnu -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\Library\CMSIS\Include -I ..\Library\Device\Nuvoton\M051Series\Include -I ..\Library\StdDriver\inc -I ..\2_ExGPIO_INPUT-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528"-o .\objects\retarget.o --omf_browse .\objects\retarget.crf --depend .\objects\retarget.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5CEB6BD2)
+I (..\Library\Device\Nuvoton\M051Series\Include\M051Series.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cm0.h)(0x5F6324B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (..\Library\CMSIS\Include\core_cmInstr.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cmFunc.h)(0x5F6324B4)
+I (..\Library\Device\Nuvoton\M051Series\Include\system_M051Series.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\sys.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\clk.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\adc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\ebi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\fmc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\gpio.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\i2c.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\pwm.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\spi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\timer.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wwdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\uart.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\hdiv.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\acmp.h)(0x5F6324B4)
+F (..\Library\StdDriver\src\spi.c)(0x5F6324B4)(--c99 --gnu -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\Library\CMSIS\Include -I ..\Library\Device\Nuvoton\M051Series\Include -I ..\Library\StdDriver\inc -I ..\2_ExGPIO_INPUT-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528"-o .\objects\spi.o --omf_browse .\objects\spi.crf --depend .\objects\spi.d)
+I (..\Library\Device\Nuvoton\M051Series\Include\M051Series.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cm0.h)(0x5F6324B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (..\Library\CMSIS\Include\core_cmInstr.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cmFunc.h)(0x5F6324B4)
+I (..\Library\Device\Nuvoton\M051Series\Include\system_M051Series.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\sys.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\clk.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\adc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\ebi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\fmc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\gpio.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\i2c.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\pwm.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\spi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\timer.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wwdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\uart.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\hdiv.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\acmp.h)(0x5F6324B4)
+F (..\Library\StdDriver\src\sys.c)(0x5F6324B4)(--c99 --gnu -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\Library\CMSIS\Include -I ..\Library\Device\Nuvoton\M051Series\Include -I ..\Library\StdDriver\inc -I ..\2_ExGPIO_INPUT-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528"-o .\objects\sys.o --omf_browse .\objects\sys.crf --depend .\objects\sys.d)
+I (..\Library\Device\Nuvoton\M051Series\Include\M051Series.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cm0.h)(0x5F6324B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (..\Library\CMSIS\Include\core_cmInstr.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cmFunc.h)(0x5F6324B4)
+I (..\Library\Device\Nuvoton\M051Series\Include\system_M051Series.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\sys.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\clk.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\adc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\ebi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\fmc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\gpio.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\i2c.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\pwm.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\spi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\timer.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wwdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\uart.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\hdiv.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\acmp.h)(0x5F6324B4)
+F (..\Library\StdDriver\src\timer.c)(0x5F6324B4)(--c99 --gnu -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\Library\CMSIS\Include -I ..\Library\Device\Nuvoton\M051Series\Include -I ..\Library\StdDriver\inc -I ..\2_ExGPIO_INPUT-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528"-o .\objects\timer.o --omf_browse .\objects\timer.crf --depend .\objects\timer.d)
+I (..\Library\Device\Nuvoton\M051Series\Include\M051Series.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cm0.h)(0x5F6324B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (..\Library\CMSIS\Include\core_cmInstr.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cmFunc.h)(0x5F6324B4)
+I (..\Library\Device\Nuvoton\M051Series\Include\system_M051Series.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\sys.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\clk.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\adc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\ebi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\fmc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\gpio.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\i2c.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\pwm.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\spi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\timer.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wwdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\uart.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\hdiv.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\acmp.h)(0x5F6324B4)
+F (..\Library\StdDriver\src\uart.c)(0x5F6324B4)(--c99 --gnu -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\Library\CMSIS\Include -I ..\Library\Device\Nuvoton\M051Series\Include -I ..\Library\StdDriver\inc -I ..\2_ExGPIO_INPUT-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528"-o .\objects\uart.o --omf_browse .\objects\uart.crf --depend .\objects\uart.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5CEB6BD2)
+I (..\Library\Device\Nuvoton\M051Series\Include\M051Series.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cm0.h)(0x5F6324B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (..\Library\CMSIS\Include\core_cmInstr.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cmFunc.h)(0x5F6324B4)
+I (..\Library\Device\Nuvoton\M051Series\Include\system_M051Series.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\sys.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\clk.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\adc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\ebi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\fmc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\gpio.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\i2c.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\pwm.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\spi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\timer.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wwdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\uart.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\hdiv.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\acmp.h)(0x5F6324B4)
+F (..\Library\StdDriver\src\wdt.c)(0x5F6324B4)(--c99 --gnu -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\Library\CMSIS\Include -I ..\Library\Device\Nuvoton\M051Series\Include -I ..\Library\StdDriver\inc -I ..\2_ExGPIO_INPUT-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528"-o .\objects\wdt.o --omf_browse .\objects\wdt.crf --depend .\objects\wdt.d)
+I (..\Library\Device\Nuvoton\M051Series\Include\M051Series.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cm0.h)(0x5F6324B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (..\Library\CMSIS\Include\core_cmInstr.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cmFunc.h)(0x5F6324B4)
+I (..\Library\Device\Nuvoton\M051Series\Include\system_M051Series.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\sys.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\clk.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\adc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\ebi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\fmc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\gpio.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\i2c.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\pwm.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\spi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\timer.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wwdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\uart.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\hdiv.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\acmp.h)(0x5F6324B4)
+F (..\Library\StdDriver\src\wwdt.c)(0x5F6324B4)(--c99 --gnu -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\Library\CMSIS\Include -I ..\Library\Device\Nuvoton\M051Series\Include -I ..\Library\StdDriver\inc -I ..\2_ExGPIO_INPUT-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528"-o .\objects\wwdt.o --omf_browse .\objects\wwdt.crf --depend .\objects\wwdt.d)
+I (..\Library\Device\Nuvoton\M051Series\Include\M051Series.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cm0.h)(0x5F6324B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (..\Library\CMSIS\Include\core_cmInstr.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cmFunc.h)(0x5F6324B4)
+I (..\Library\Device\Nuvoton\M051Series\Include\system_M051Series.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\sys.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\clk.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\adc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\ebi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\fmc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\gpio.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\i2c.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\pwm.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\spi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\timer.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wwdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\uart.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\hdiv.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\acmp.h)(0x5F6324B4)
+F (.\main.c)(0x60403AC9)(--c99 --gnu -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\Library\CMSIS\Include -I ..\Library\Device\Nuvoton\M051Series\Include -I ..\Library\StdDriver\inc -I ..\2_ExGPIO_INPUT-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528"-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (common.h)(0x604036D7)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5CEB6BD2)
+I (..\Library\Device\Nuvoton\M051Series\Include\M051Series.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cm0.h)(0x5F6324B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (..\Library\CMSIS\Include\core_cmInstr.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cmFunc.h)(0x5F6324B4)
+I (..\Library\Device\Nuvoton\M051Series\Include\system_M051Series.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\sys.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\clk.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\adc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\ebi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\fmc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\gpio.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\i2c.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\pwm.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\spi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\timer.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wwdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\uart.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\hdiv.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\acmp.h)(0x5F6324B4)
+I (device_func.h)(0x604036D7)
+F (.\device_func.c)(0x604036D7)(--c99 --gnu -c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork --split_sections -I ..\Library\CMSIS\Include -I ..\Library\Device\Nuvoton\M051Series\Include -I ..\Library\StdDriver\inc -I ..\2_ExGPIO_INPUT-IC:\Keil_v5\ARM\RV31\INC-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="528"-o .\objects\device_func.o --omf_browse .\objects\device_func.crf --depend .\objects\device_func.d)
+I (device_func.h)(0x604036D7)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5CEB6BD2)
+I (..\Library\Device\Nuvoton\M051Series\Include\M051Series.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cm0.h)(0x5F6324B4)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5CEB6BD2)
+I (..\Library\CMSIS\Include\core_cmInstr.h)(0x5F6324B4)
+I (..\Library\CMSIS\Include\core_cmFunc.h)(0x5F6324B4)
+I (..\Library\Device\Nuvoton\M051Series\Include\system_M051Series.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\sys.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\clk.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\adc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\ebi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\fmc.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\gpio.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\i2c.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\pwm.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\spi.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\timer.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\wwdt.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\uart.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\hdiv.h)(0x5F6324B4)
+I (..\Library\StdDriver\inc\acmp.h)(0x5F6324B4)
+F (.\device_func.h)(0x604036D7)()
+F (.\common.h)(0x604036D7)()
